@@ -36,6 +36,10 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="jasmine" translatesAutoresizingMaskIntoConstraints="NO" id="kc1-Gr-pB3">
+                                <rect key="frame" x="67" y="182" width="246" height="148"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="0.83216959239999999" green="0.98548370600000001" blue="0.47333085539999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -48,5 +52,6 @@
     </scenes>
     <resources>
         <image name="flower" width="2371" height="1897"/>
+        <image name="jasmine" width="355" height="355"/>
     </resources>
 </document>
